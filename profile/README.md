@@ -4,7 +4,7 @@ Final Project BTech Year 2023
 
 *Group Member*
 
-😃 Suyash Gholap
-🤠 Vaishnavi Chaudhari
-😊 Suvarna Nanaware 
-😁 Ankita Chaudhari
+😃 Suyash Gholap<br>
+🤠 Vaishnavi Chaudhari<br>
+😊 Suvarna Nanaware<br>
+😁 Ankita Chaudhari<br>
