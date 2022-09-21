@@ -1,8 +1,8 @@
-Sanjivani Boolean Autocrats 😃
+<h1>😃 Sanjivani Boolean Autocrats 😃</h1>
 
-Final Project BTech Year 2023
+<h3>Final Project BTech Year 2023</h3>
 
-*Group Member*
+<b>Group Member</b>
 
 😃 Suyash Gholap<br>
 🤠 Vaishnavi Chaudhari<br>
